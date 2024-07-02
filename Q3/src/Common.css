@@ -1,0 +1,6 @@
+.message-box{border-radius: 10px;background: #f5f5f5;text-align: center;padding: 15px;margin-bottom: 20px;}
+.message-box p{font-size: 25px;font-weight: 500;}
+p.welcome-msg{color: #068021;}
+p.login-msg{color: #800606;}
+.login-btn{background: #068021;color: #fff;}
+.logout-btn{background: #800606;color: #fff;}
